@@ -1,6 +1,6 @@
 # CRMPC
 
-| Reconnaissance | Behavior Patterns | Payload Investigation | Threat Actor Detection | Intelligence Dissemination |
+| Reconnaissance | Behavior Patterns | Payload Investigation | Threat Detection | Intelligence Dissemination |
 |----------|----------|----------|----------|----------|
 | Whois Investigation  | Target Discovery  | Shorter URLs   | Threat Indicators  |  Threat Ecosystem  |
 | Email Header Analysis  | Campaign Characteristics   | Payload Infrastructure   | Threat Actor Catalog   | consolidation indicator   |
