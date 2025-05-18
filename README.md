@@ -1,8 +1,8 @@
 # CRMPC
 
-| Reconnaissance | Behavior Patterns | Payload Investigation | Threat Detection | Intelligence Dissemination |
+| Adversary Recon | Behavior Patterns | Payload Investigation | Threat Detection | Intelligence Dissemination |
 |----------|----------|----------|----------|----------|
-| Whois Investigation  | Target Discovery  | Shorter URLs   | Threat Indicators  |  Threat Ecosystem  |
+| Whois Investigation  | Target Discovery  | Fingerprinting Shorter URLs   | Threat Indicators  |  Threat Ecosystem  |
 | Email Header Analysis  | Campaign Characteristics   | Payload Infrastructure   | Threat Actor Catalog   | consolidation indicator   |
 | Attack Collections | Dado 9   |  Phishing Toolkit   | Dado 11  | Dado 12  |
 | Internet Routing Registry  | Dado 13  | Dado 14 | Dado 15  | Dado 16  |
