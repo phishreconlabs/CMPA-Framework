@@ -10,13 +10,9 @@ O CMPA™ (Counterintelligence Methodology for Phishing Attacks) é um Open Fram
 <img width="1315" height="1320" alt="framework_cmpa" src="https://github.com/user-attachments/assets/15df419f-0b79-48a8-8782-3d5cfcfe0d00" />
 
 
-| Adversary Recon | Behavior Patterns | Payload Investigation | Threat Detection | Intelligence Dissemination |
-|----------|----------|----------|----------|----------|
-| Whois Investigation  | Target Discovery  | Fingerprinting Shorter URLs   | Threat Indicators  |  Threat Ecosystem  |
-| Email Header Analysis  | Campaign Characteristics   | Payload Infrastructure   | Threat Actor Catalog   | consolidation indicator   |
-| Attack Collections | Dado 9   |  Phishing Toolkit   | Dado 11  | Dado 12  |
-| Internet Routing Registry  | Dado 13  | Dado 14 | Dado 15  | Dado 16  |
-| Linha 5  | Dado 17  | Dado 18  | Dado 19  | Dado 20  |
+
+Para ter acesso ao CMPA™, basta acessar nosso projeto:
+https://github.com/users/phishtatics/projects/1
 
 
 
